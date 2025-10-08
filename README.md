@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.madelineratoza.com/">
-    <img src="https://raw.githubusercontent.com/madelineratoza/Welcome/f2d0b95d1f9f76955017a36f6e5eda9fb118690e/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner%20(2).png" alt="Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/madelineratoza/madelineratoza/main/welcome.png" alt="Banner" width="100%" />
   </a>
 </p>
 
