@@ -26,7 +26,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Madeline Ratoza, PT, DPT, PhD**, a health equity researcher, rehabilitation scientist, and educator.
 
@@ -34,16 +34,16 @@ My work sits at the intersection of **rehabilitation, geography, and data scienc
 
 I also build and teach with open, reproducible tools, with interests spanning **health professions education, data literacy, and the health humanities**.
 
-## 🔬 What I Work On
+## What I Work On
 
-| 🗺️ Rehabilitation Access | 📊 Data + Reproducibility | 🎓 Education                 |
+| Rehabilitation Access   | Data +   Reproducibility |    Education                 |
 | :------------------------ | :------------------------ | :--------------------------- |
 | Provider distribution     | Reproducible workflows    | Data literacy                |
 | Geographic accessibility  | Spatial analysis          | Health professions education |
 | Workforce shortage        | R + Python                | Health humanities            |
 | Health equity             | Open science              | Reproducible research        |
 
-## 🗺️ Selected Work
+## Selected Work
 
 ### Rehabilitation Provider Shortage Areas
 
@@ -63,7 +63,7 @@ Developing and sharing approachable resources for using Git, GitHub, R, and Quar
 
 **Tools:** `Git` · `GitHub` · `R` · `Quarto`
 
-## 🧰 Tools I Use
+## Tools I Use
 
 **Analysis**
 `R` `Python` `RStudio` `Jupyter`
@@ -78,7 +78,3 @@ Developing and sharing approachable resources for using Git, GitHub, R, and Quar
 `Power BI` `Data Visualization` `Markdown`
 
 ---
-
-<p align="center">
-  <i>Research should be rigorous, reproducible, and useful.</i>
-</p>
