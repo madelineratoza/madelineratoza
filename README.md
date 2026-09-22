@@ -1,34 +1,84 @@
 <p align="center">
   <a href="https://www.madelineratoza.com/">
-    <img src="https://raw.githubusercontent.com/madelineratoza/madelineratoza/main/welcome.png" alt="Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/madelineratoza/madelineratoza/main/welcome.png" alt="Madeline Ratoza — Research, Data, and Education" width="100%" />
   </a>
 </p>
 
-I’m a **health equity researcher and educator** working at the intersection of **rehabilitation, GIS, and data science**.  
-My work focuses on **rehabilitation workforce distribution, access to care, and innovative teaching** that connects **humanities and healthcare**.  
-
-- 🔭 Current work: Mapping rehab provider availability, accessibility, and exploring health policy intersections.  
-- 🎯 Skills: R, RStudio, Python, ArcGIS Pro, ArcMap, Jupyter, GitHub, R Markdown.  
-
----
-
-## 🌐 Connect with Me
+<p align="center">
+  <strong>Rehabilitation Science • Health Equity • GIS • Data • Education</strong>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ratoza"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.madelineratoza.com/"><img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://madelineratoza.substack.com/"><img src="https://img.shields.io/badge/Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  I use spatial analysis, data science, and reproducible research methods to study where rehabilitation care is available, who can access it, and where gaps remain.
+</p>
+
+<p align="center">
+  <a href="https://www.madelineratoza.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ratoza">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://madelineratoza.substack.com/">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧭 Tools & Tech
-- **Languages/Environments:** R, Python  
-- **IDE/Notebooks:** RStudio, Jupyter  
-- **GIS:** ArcGIS Pro, ArcMap  
-- **Reproducibility:** R Markdown, GitHub  
+## 👋 About Me
+
+I'm **Madeline Ratoza, PT, DPT, PhD**, a health equity researcher, rehabilitation scientist, and educator.
+
+My work sits at the intersection of **rehabilitation, geography, and data science**. I am particularly interested in understanding how the distribution of the rehabilitation workforce shapes geographic access to care — and in developing reproducible methods that make those patterns easier to identify, communicate, and address.
+
+I also build and teach with open, reproducible tools, with interests spanning **health professions education, data literacy, and the health humanities**.
+
+## 🔬 What I Work On
+
+| 🗺️ Rehabilitation Access | 📊 Data + Reproducibility | 🎓 Education                 |
+| :------------------------ | :------------------------ | :--------------------------- |
+| Provider distribution     | Reproducible workflows    | Data literacy                |
+| Geographic accessibility  | Spatial analysis          | Health professions education |
+| Workforce shortage        | R + Python                | Health humanities            |
+| Health equity             | Open science              | Reproducible research        |
+
+## 🗺️ Selected Work
+
+### Rehabilitation Provider Shortage Areas
+
+Developing spatial methods to identify communities with limited access to the rehabilitation workforce by combining measures of provider availability, geographic accessibility, and population need.
+
+**Methods:** `GIS` · `2SFCA` · `Spatial Statistics` · `PCA` · `R`
+
+### Rehabilitation Access Mapping
+
+Examining geographic variation in physical and occupational therapy availability and accessibility and developing reproducible workflows for extending these analyses across states and regions.
+
+**Tools:** `ArcGIS Pro` · `R` · `Python` · `Census/ACS Data`
+
+### Reproducible Rehabilitation Research
+
+Developing and sharing approachable resources for using Git, GitHub, R, and Quarto in rehabilitation research and education.
+
+**Tools:** `Git` · `GitHub` · `R` · `Quarto`
+
+## 🧰 Tools I Use
+
+**Analysis**
+`R` `Python` `RStudio` `Jupyter`
+
+**Spatial**
+`ArcGIS Pro` `Spatial Analysis` `Network Analysis`
+
+**Reproducible Research**
+`Git` `GitHub` `Quarto` `R Markdown`
+
+**Data + Communication**
+`Power BI` `Data Visualization` `Markdown`
 
 ---
 
-## 🗺️ Featured Projects
-- **Rehabilitation Provider Shortage Index (RPSA)** – GIS & data pipeline exploring workforce distribution  
+<p align="center">
+  <i>Research should be rigorous, reproducible, and useful.</i>
+</p>
